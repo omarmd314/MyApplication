@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txtTitulo1">Ingrese el primer numero</string>
+    <string name="txtTitulo2">Ingrese el segundo numero</string>
+    <string name="txtBox1">Primer numero</string>
+    <string name="txtBox2">Segundo numero</string>
+    <string name="txtResultado">Resultado</string>
+    <string name="btnSumar">Sumar</string>
+    <string name="rdBtn1">Multiplicar</string>
+    <string name="rdBtn2">Dividir</string>
+    <string name="cBox1">Sumar</string>
+    <string name="cBox2">Restar</string>
+    <string name="cBox3">Multiplicar</string>
+    <string name="cBox4">Dividir</string>
+</resources>
